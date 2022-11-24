@@ -1,0 +1,29 @@
+{
+  "name": "sentimental-analysis",
+  "version": "1.0.0",
+  "description": "Final Project for CSD 3103 - Fullstack Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3bslave/nodejs-sentimental-analysis.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Sentimental",
+    "Analysis",
+    "ML"
+  ],
+  "author": "Jorich Ponio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w3bslave/nodejs-sentimental-analysis/issues"
+  },
+  "homepage": "https://github.com/w3bslave/nodejs-sentimental-analysis#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ml-sentiment": "^2.0.7"
+  }
+}
